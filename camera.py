@@ -10,7 +10,7 @@ try:
 
 except:
     posList=[]
-print('oi')
+
 rtsp_url=r'rtsp://admin:SSYRMI@192.162.254.100:554/cam/realmonitor?channel=1&subtype=0'
 #rtsp_url=r'sample.mp4'
 
